@@ -10,7 +10,7 @@ setup(
     name="findtheorigin",
     version="0.1.0",
     author="Natanael Wildner Fraga",
-    author_email="natanael_fraga@hotmail.com",
+    author_email="natanael.wf@gmail.com",
     description="Testing reasoning degradation in LLMs as context windows grow. This test challenges LLMs to identify the origin vertex in a series of interconnected nodes, progressively increasing the context window to measure the impact on reasoning ability. The benchmark includes varying degrees of complexity, adjusting parameters such as the distance between connections and the order of connections.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
